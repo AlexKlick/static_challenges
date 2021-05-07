@@ -1,0 +1,75 @@
+nav a {
+  display: inline-flexbox;
+  color: white;
+  padding: 20 20 20 20;
+}
+
+#title-nav {
+  background-color: rgb(148, 53, 36);
+  text-align: right;
+  height:80px;
+}
+
+#login {
+  line-height: 86px;
+  font-weight: bold;
+}
+
+#title {
+  font-size: 40;
+  float: left;
+  padding: 20 20 20 20;
+}
+
+#navbar {
+  background-color: rgb(59, 59, 59);
+  text-align: right;
+  height: 60px;
+  line-height: 60px;
+}
+
+#main-div {
+  width: 76%;
+  padding: 30 0 0 30;
+}
+#article-title {
+  font-weight: 900;
+  margin-top: 20;
+  font-size: 25;
+}
+
+.m-div-content {
+  margin-left: 12px;
+}
+#side-div {
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  width: 22%;
+}
+.side-images{
+  width: 100%;
+}
+
+#big-pic {
+  width: 100%
+}
+
+.imag {
+  padding: 10 20 20 40px;
+  margin: 20 20 20 20;
+}
+
+footer {
+  width: 100%; 
+  margin-top: 100px;
+  background-color: rgb(56, 55, 55);
+}
+
+#footer-p {
+  clear: both;
+  color: white;
+  width: 95%;
+  text-align: left;
+  margin-left: 50px;
+}
